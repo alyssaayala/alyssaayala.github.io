@@ -2,10 +2,10 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+img: ManagingTypeOne.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: June-July 2026
+client: Personal Project
+category: Game Development
+description: This game aims to educate about the signs, symptoms, diagnosis, and aftermath of Type One Diabetes. Understanding how it works and how to take care of yourself is crucial to a basic understanding of the condition. I programmed this game by myself, with my younger sister helping with some of the artwork. Voice Acting performed by myself, my sister, and father.
 ---
