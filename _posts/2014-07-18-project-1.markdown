@@ -7,5 +7,5 @@ alt: image-alt
 project-date: June-July 2026
 client: Personal Project
 category: Game Development
-description: This game aims to educate about the signs, symptoms, diagnosis, and aftermath of Type One Diabetes. Understanding how it works and how to take care of yourself is crucial to a basic understanding of the condition. I programmed this game by myself, with my younger sister helping with some of the artwork (more specifically the character's outfits). Voice acting was performed by me, my sister, and my father.
+description: This game aims to educate about the signs, symptoms, diagnosis, and aftermath of Type One Diabetes. Understanding how it works and how to take care of yourself is crucial to a basic understanding of the condition. I programmed this game by myself, with my younger sister helping with some of the artwork (more specifically the character's outfits). Voice acting was performed by me, my sister, and my father. It is free to download on itch.io! (https://alyssamayala.itch.io/managing-t1d)
 ---
