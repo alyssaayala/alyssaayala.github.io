@@ -1,11 +1,12 @@
 ---
 layout: default
-modal-id: 4
-date: 2014-07-15
-img: MurderSmallGeorgiaTown.png
+modal-id: 3
+date: 2014-07-16
+img: example-thumbnail.png
+video: example.mp4
 alt: image-alt
-project-date: 2026
-client: Lifetime/Storyteller Studios
-category: Acting
-description: Murder in a Small Georgia Town is a Southern crime thriller centered on Halle Weathers, a hardworking paralegal and single mother whose life implodes after she rescues her fourteen-year-old daughter Emma from a predatory encounter with wealthy local heir Dallas Tucker. When Halle accidentally runs Dallas over while fleeing his violent attack, the incident quickly spirals into a legal and political nightmare fueled by corruption, victim-blaming, class privilege, and small-town power structures. As Sheriff Minsley manipulates evidence and public perception to protect the influential Tucker family, Halle must fight not only criminal charges but an entire system designed to shield powerful men at the expense of vulnerable women and children. In this film, I star as a lead, playing Emma Weathers.
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---
