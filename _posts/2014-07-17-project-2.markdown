@@ -4,8 +4,8 @@ modal-id: 2
 date: 2014-07-17
 img: unnamednovel.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: July 2026-Current
+client: Personal Project
+category: Game Development
+description: In the late 1800s, during the end of the Wild West era, a mysterious figure recruits outlaws for a train robbery aimed at stealing money. Once aboard, they figure out that not everything is as it seems, and the only choice left is to escape. The game is heavily multiple choice, and almost every choice has a direct impact, some leading to alternate endings and paths. Planning and writing are still ongoing, but the release will happen before 2027.
 ---
