@@ -7,5 +7,5 @@ alt: image-alt
 project-date: July 2026-Current
 client: Personal Project
 category: Web Development
-description: I developed this website using a Jekyll theme, and I have made alterations to include distinct features depending on what each project post needs. I host it on GitHub pages and update it regularly.
+description: I developed this website using a Jekyll theme (credited below), and I have made alterations to include distinct features depending on what each project post needs. I host it on GitHub pages and update it regularly.
 ---
